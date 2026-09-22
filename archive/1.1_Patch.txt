@@ -1,0 +1,590 @@
+Item ID                                            Display Name                              Old  -> New  
+----------------------------------------------------------------------------------------------------------
+
+/* === Accessory === */
+Base.BellyButton_RingSilverDiamond                 Silver Belly Button Ring with Diamond     0.1  -> 0.03 
+Base.NecklaceLong_Amber                            Long Necklace with Amber Stone            0.1  -> 0.03 
+Base.Ring_Right_MiddleFinger_Signet                Signet Ring                               0.1  -> 0.03 
+Base.Hat_BaseballCapTINT_Reverse                   Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapBlue                           Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapBlue_Reverse                   Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCap                               Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapRed                            Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapTINT                           Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapGreen                          Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapGreen_Reverse                  Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCap_Reverse                       Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCapRed_Reverse                    Baseball Cap                              0.15 -> 0.08 
+Base.Hat_BaseballCap_3N                            Baseball Cap - 3N                         0.15 -> 0.08 
+Base.Hat_BaseballCap_3N_Reverse                    Baseball Cap - 3N                         0.15 -> 0.08 
+Base.Hat_BaseballCap_AmericanEats                  Baseball Cap - American Eats              0.15 -> 0.08 
+Base.Hat_BaseballCap_AmericanEats_Reverse          Baseball Cap - American Eats              0.15 -> 0.08 
+Base.Hat_BaseballCap_AmericanTire                  Baseball Cap - American Tire              0.15 -> 0.08 
+Base.Hat_BaseballCap_AmericanTire_Reverse          Baseball Cap - American Tire              0.15 -> 0.08 
+Base.Hat_BaseballCap_AmeriglobeCom_Reverse         Baseball Cap - Ameriglobe                 0.15 -> 0.08 
+Base.Hat_BaseballCap_AmeriglobeCom                 Baseball Cap - Ameriglobe                 0.15 -> 0.08 
+Base.Hat_BaseballCapArmy                           Baseball Cap - Army                       0.15 -> 0.08 
+Base.Hat_BaseballCapArmy_Reverse                   Baseball Cap - Army                       0.15 -> 0.08 
+Base.Hat_BaseballCap_BodyChisel_Reverse            Baseball Cap - Body Chisel                0.15 -> 0.08 
+Base.Hat_BaseballCap_BodyChisel                    Baseball Cap - Body Chisel                0.15 -> 0.08 
+Base.Hat_BaseballCap_BoxpopBrewery_Reverse         Baseball Cap - Boxpop Brewery             0.15 -> 0.08 
+Base.Hat_BaseballCap_BoxpopBrewery                 Baseball Cap - Boxpop Brewery             0.15 -> 0.08 
+Base.Hat_BaseballCap_Fossoil02                     Baseball Cap - Fancy Fossoil              0.15 -> 0.08 
+Base.Hat_BaseballCap_Fossoil02_Reverse             Baseball Cap - Fancy Fossoil              0.15 -> 0.08 
+Base.Hat_BaseballCap_FireDept_Reverse              Baseball Cap - Fire Department            0.15 -> 0.08 
+Base.Hat_BaseballCap_FireDept                      Baseball Cap - Fire Department            0.15 -> 0.08 
+Base.Hat_BaseballCap_Fossoil                       Baseball Cap - Fossoil                    0.15 -> 0.08 
+Base.Hat_BaseballCap_Fossoil_Reverse               Baseball Cap - Fossoil                    0.15 -> 0.08 
+Base.Hat_BaseballCap_Gas2Go                        Baseball Cap - Gas-2-Go                   0.15 -> 0.08 
+Base.Hat_BaseballCap_Gas2Go_Reverse                Baseball Cap - Gas-2-Go                   0.15 -> 0.08 
+Base.Hat_BaseballCap_HuntingCamo_Reverse           Baseball Cap - Hunting Camo               0.15 -> 0.08 
+Base.Hat_BaseballCap_HuntingCamo                   Baseball Cap - Hunting Camo               0.15 -> 0.08 
+Base.Hat_BaseballCap_JaysChicken                   Baseball Cap - Jay's Chicken              0.15 -> 0.08 
+Base.Hat_BaseballCap_JaysChicken_Reverse           Baseball Cap - Jay's Chicken              0.15 -> 0.08 
+Base.Hat_BaseballCap_KYTransit_Reverse             Baseball Cap - KY Transit                 0.15 -> 0.08 
+Base.Hat_BaseballCap_KYTransit                     Baseball Cap - KY Transit                 0.15 -> 0.08 
+Base.Hat_BaseballCapKY_Red                         Baseball Cap - Kentucky                   0.15 -> 0.08 
+Base.Hat_BaseballCapKY_Red_Reverse                 Baseball Cap - Kentucky                   0.15 -> 0.08 
+Base.Hat_BaseballCapKY_Reverse                     Baseball Cap - Kentucky                   0.15 -> 0.08 
+Base.Hat_BaseballCapKY                             Baseball Cap - Kentucky                   0.15 -> 0.08 
+Base.Hat_BaseballCap_KnoxDistillery                Baseball Cap - Knox Distillery            0.15 -> 0.08 
+Base.Hat_BaseballCap_KnoxDistillery_Reverse        Baseball Cap - Knox Distillery            0.15 -> 0.08 
+Base.Hat_BaseballCap_LBMW_Reverse                  Baseball Cap - LBMW Radio                 0.15 -> 0.08 
+Base.Hat_BaseballCap_LBMW                          Baseball Cap - LBMW Radio                 0.15 -> 0.08 
+Base.Hat_BaseballCap_LSU                           Baseball Cap - LSU                        0.15 -> 0.08 
+Base.Hat_BaseballCap_LSU_Reverse                   Baseball Cap - LSU                        0.15 -> 0.08 
+Base.Hat_BaseballCap_LouisvilleBruiser             Baseball Cap - Louisville Bruiser         0.15 -> 0.08 
+Base.Hat_BaseballCap_LouisvilleBruiser_Reverse     Baseball Cap - Louisville Bruiser         0.15 -> 0.08 
+Base.Hat_BaseballCap_MassGenfac_Reverse            Baseball Cap - Mass Genfac                0.15 -> 0.08 
+Base.Hat_BaseballCap_MassGenfac                    Baseball Cap - Mass Genfac                0.15 -> 0.08 
+Base.Hat_BaseballCap_PizzaWhirled                  Baseball Cap - Pizza Whirled              0.15 -> 0.08 
+Base.Hat_BaseballCap_PizzaWhirled_Reverse          Baseball Cap - Pizza Whirled              0.15 -> 0.08 
+Base.Hat_BaseballCap_Police                        Baseball Cap - Police                     0.15 -> 0.08 
+Base.Hat_BaseballCap_Police_Reverse                Baseball Cap - Police                     0.15 -> 0.08 
+Base.Hat_BaseballCap_SWAT                          Baseball Cap - SWAT                       0.15 -> 0.08 
+Base.Hat_BaseballCap_SWAT_Reverse                  Baseball Cap - SWAT                       0.15 -> 0.08 
+Base.Hat_BaseballCap_ScarletOakDistillery_Reverse  Baseball Cap - Scarlet Oak                0.15 -> 0.08 
+Base.Hat_BaseballCap_ScarletOakDistillery          Baseball Cap - Scarlet Oak                0.15 -> 0.08 
+Base.Hat_BaseballCap_Sheriff_Reverse               Baseball Cap - Sheriff                    0.15 -> 0.08 
+Base.Hat_BaseballCap_Sheriff                       Baseball Cap - Sheriff                    0.15 -> 0.08 
+Base.Hat_BaseballCap_USL                           Baseball Cap - United Shipping Logistics  0.15 -> 0.08 
+Base.Hat_BaseballCap_USL_Reverse                   Baseball Cap - United Shipping Logistics  0.15 -> 0.08 
+Base.Hat_BaseballCap_WestMapleCountryClub_Reverse  Baseball Cap - West Maple Country Club    0.15 -> 0.08 
+Base.Hat_BaseballCap_WestMapleCountryClub          Baseball Cap - West Maple Country Club    0.15 -> 0.08 
+Base.Hat_DeerHeadress                              Antler Headdress                          0.5  -> 0.08 
+Base.Hat_BalaclavaFull                             Balaclava                                 0.15 -> 0.04 
+Base.Hat_BalaclavaFace                             Balaclava - Open                          0.15 -> 0.04 
+Base.Hat_BandanaMaskTINT                           Bandana                                   0.06 -> 0.02 
+Base.Hat_BandanaTINT                               Bandana                                   0.06 -> 0.02 
+Base.Hat_Bandana_Green                             Bandana                                   0.06 -> 0.02 
+Base.Hat_BandanaMask                               Bandana                                   0.06 -> 0.02 
+Base.Hat_BandanaMask_Green                         Bandana                                   0.06 -> 0.02 
+Base.Hat_Bandana                                   Bandana                                   0.06 -> 0.02 
+Base.Hat_BandanaTiedTINT                           Bandana - Tied                            0.06 -> 0.02 
+Base.Hat_BandanaTied_Green                         Bandana - Tied                            0.06 -> 0.02 
+Base.Hat_BandanaTied                               Bandana - Tied                            0.06 -> 0.02 
+Base.Hat_RagBandanaMask                            Rag Bandana - Face                        0.06 -> 0.02 
+Base.Hat_RagBandana                                Rag Bandana - Head                        0.06 -> 0.02 
+Base.Hat_RagBandanaTied                            Rag Bandana - Tied                        0.06 -> 0.02 
+Base.Hat_Beany                                     Beanie                                    0.15 -> 0.06 
+Base.Hat_Beret                                     Beret                                     0.15 -> 0.05 
+Base.Hat_BeretArmy                                 Army Beret                                0.15 -> 0.05 
+Base.Hat_ShemaghFull_Cotton                        Cloth Headwrap (Fully Closed)             0.10 -> 0.12 
+Base.Hat_ShemaghFull_Green                         Shemagh (Fully Closed)                    0.1  -> 0.12 
+Base.Hat_ShemaghFull                               Shemagh (Fully Closed)                    0.1  -> 0.12 
+Base.Hat_HeadSack_Cotton                           Cotton Headsack                           0.15 -> 0.08 
+Base.Hat_Cowboy                                    Cowboy Hat                                0.30 -> 0.22 
+Base.Hat_Cowboy_White                              Cowboy Hat                                0.30 -> 0.22 
+Base.Hat_Cowboy_Black                              Cowboy Hat                                0.30 -> 0.22 
+Base.Hat_Cowboy_Angus                              Cowboy Hat - Angus Cowhide                0.40 -> 0.35 
+Base.Hat_Cowboy_CowHide                            Cowboy Hat - Cowhide                      0.40 -> 0.35 
+Base.Hat_Cowboy_Holstein                           Cowboy Hat - Holstein Cowhide             0.40 -> 0.35 
+Base.Hat_Cowboy_Simmental                          Cowboy Hat - Simmental Cowhide            0.40 -> 0.35 
+Base.Hat_Ranger                                    Ranger Hat                                0.30 -> 0.25 
+Base.Hat_Sheriff                                   Sheriff Deputy Hat                        0.30 -> 0.25 
+Base.Hat_LeatherStripTied                          Leather Strip Headband                    0.06 -> 0.03 
+Base.Hat_EarMuffs                                  Ear Muffs                                 0.10 -> 0.04 
+Base.Hat_EarMuff_Protectors                        Ear Protectors                            0.25 -> 0.20 
+Base.Hat_SantaHat                                  Santa Hat                                 0.15 -> 0.10 
+Base.Hat_SantaHatGreen                             Santa Hat - Green                         0.15 -> 0.10 
+Base.Hat_ShowerCap                                 Shower Cap                                0.06 -> 0.01 
+Base.Hat_Stovepipe_Black                           Stovepipe Hat                             0.40 -> 0.45 
+Base.Hat_Stovepipe                                 Stovepipe Hat                             0.40 -> 0.45 
+Base.Hat_SummerHat                                 Summer Hat                                0.30 -> 0.25 
+Base.Hat_FastFood                                  Server Hat - Fast Food                    0.09 -> 0.02 
+Base.Hat_FastFood_IceCream                         Server Hat - Ice Cream                    0.09 -> 0.02 
+Base.Hat_VisorBlack                                Visor                                     0.09 -> 0.06 
+Base.Hat_VisorRed                                  Visor                                     0.09 -> 0.06 
+Base.Hat_Visor_WhiteTINT                           Visor                                     0.09 -> 0.06 
+Base.Hat_WeddingVeil                               Wedding Veil                              0.15 -> 0.04 
+Base.Hat_WinterHat                                 Winter Hat                                0.20 -> 0.12 
+Base.Hat_WinterHat_SheepSkin                       Winter Hat - Sheepskin                    0.30 -> 0.35 
+Base.Hat_WoolyHat                                  Wool Hat                                  0.15 -> 0.08 
+Base.Hat_TarpHat                                   Tarp Hat                                  0.35 -> 0.15 
+Base.Hat_HeadSack_Tarp                             Tarp Headsack                             0.35 -> 0.12 
+Base.Hat_Sweatband                                 Sweatband                                 0.03 -> 0.01 
+Base.Hat_TinFoilHat                                Tin Foil Hat                              0.09 -> 0.03 
+Base.Hat_BonnieHat_CamoGreen                       Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat_OliveDrab                       Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat                                 Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat_TigerStripeCamo                 Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat_MiliusCamo                      Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat_DesertCamoNew                   Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BonnieHat_DesertCamo                      Boonie Hat                                0.15 -> 0.10 
+Base.Hat_BucketHat                                 Bucket Hat                                0.15 -> 0.08 
+Base.Hat_Fedora                                    Fedora                                    0.20 -> 0.22 
+Base.Hat_Fedora_Delmonte                           Fedora                                    0.20 -> 0.22 
+Base.Hat_HeadSack_Burlap                           Burlap Headsack                           0.3  -> 0.15 
+Base.Hat_ShemaghFull_Burlap                        Burlap Headwrap (Fully Closed)            0.3  -> 0.20 
+Base.Hat_ShemaghFace_Burlap                        Burlap Headwrap (Open Face)               0.3  -> 0.15 
+Base.Hat_HeadSack_Garbage                          Garbage Bag Headsack                      0.3  -> 0.01 
+Base.Hat_GolfHatTINT                               Golf Cap                                  0.1  -> 0.08 
+Base.Hat_GolfHat                                   Golf Cap                                  0.1  -> 0.08 
+Base.Hat_HeadMirrorDOWN                            Head Mirror                               0.15 -> 0.12 
+Base.Hat_HeadMirrorUP                              Head Mirror                               0.15 -> 0.12 
+Base.Hat_HideHat                                   Hide Hat                                  0.35 -> 0.25 
+Base.Hat_HeadSack_Hide                             Hide Headsack                             0.40 -> 0.30 
+Base.Hat_NewspaperHat                              Newspaper Hat                             0.09 -> 0.02 
+Base.Hat_Police                                    Police Hat - Deputy                       0.3  -> 0.28 
+Base.Hat_Police_Grey                               Police Hat - Trooper                      0.3  -> 0.28 
+Base.Glasses_SkiGoggles                            Ski Goggles                               0.15 -> 0.10 
+Base.GasmaskFilter                                 Gas Mask Filter                           0.3  -> 0.15 
+Base.GasmaskFilterCrafted                          Gas Mask Filter - Crafted                 0.3  -> 0.15 
+Base.RespiratorFilters                             Respirator Filters                        0.3  -> 0.05 
+Base.RespiratorFiltersRecharged                    Respirator Filters - Recharged            0.3  -> 0.05 
+Base.HolsterAnkle                                  Holster - Ankle                           0.2  -> 0.10 
+Base.HolsterDouble                                 Holster - Double                          0.4  -> 0.30 
+Base.HolsterShoulder                               Holster - Shoulder                        0.4  -> 0.30 
+Base.HolsterSimple                                 Holster                                   0.2  -> 0.15 
+Base.HolsterSimple_Black                           Holster                                   0.2  -> 0.15 
+Base.HolsterSimple_Brown                           Holster                                   0.2  -> 0.15 
+Base.HolsterSimple_Green                           Holster                                   0.2  -> 0.15 
+Base.Holster_DuctTape                              Duct Tape Holster                         0.2  -> 0.10 
+Base.Holster_Hide                                  Hide Holster                              0.2  -> 0.15 
+
+/* === AnimalPart === */
+Base.AnimalSinew                                   Animal Sinew                              0.1  -> 0.05 
+
+/* === Badger === */
+Base.BorisBadger                                   Boris The Badger                          0.8  -> 0.4  
+
+/* === Bear === */
+Base.CookieJar_Bear                                Cookie Jar - Teddy Bear                   1.0  -> 0.5  
+
+/* === Beaver === */
+Base.JacquesBeaver                                 Jacques The Beaver                        0.8  -> 0.4  
+
+/* === Bug === */
+Base.Plushabug                                     Plumpabug the Aphid                       0.8  -> 0.4  
+
+/* === Bunny === */
+Base.FluffyfootBunny                               Fluffyfoot The Bunny                      0.8  -> 0.4  
+
+/* === Camping === */
+Base.PercedWood                                    Notched Plank                             3.0  -> 1.50 
+
+/* === Clothing === */
+Base.Apron_Black                                   Apron                                     0.30 -> 0.12 
+Base.Apron_BBQ                                     Apron                                     0.30 -> 0.15 
+Base.Apron_White                                   Apron                                     0.30 -> 0.12 
+Base.Apron_WhiteTEXTURE                            Apron - Tight Fit                         0.30 -> 0.12 
+Base.Apron_IceCream                                Server Apron - Ice Cream                  0.30 -> 0.12 
+Base.Apron_Jay                                     Server Apron - Jay's Chicken              0.30 -> 0.12 
+Base.Apron_PileOCrepe                              Server Apron - Pile o' Crepe              0.30 -> 0.12 
+Base.Apron_PizzaWhirled                            Server Apron - Pizza Whirled              0.30 -> 0.12 
+Base.Apron_Garbage                                 Garbage Bag Apron                         0.30 -> 0.02 
+Base.Apron_Tarp                                    Tarp Apron                                0.3  -> 0.20 
+Base.Apron_Hide                                    Hide Apron                                0.50 -> 0.45 
+Base.Socks_Ankle                                   Socks                                     0.06 -> 0.04 
+Base.Socks_Ankle_White                             Socks                                     0.06 -> 0.04 
+Base.Socks_Ankle_Black                             Socks                                     0.06 -> 0.04 
+Base.Socks_Heavy                                   Socks - Heavy                             0.06 -> 0.04 
+Base.Socks_LegWarmers                              Legwarmers                                0.06 -> 0.04 
+Base.Socks_Long_Black                              Long Socks                                0.06 -> 0.04 
+Base.Socks_Long                                    Long Socks                                0.06 -> 0.04 
+Base.Socks_Long_White                              Long Socks                                0.06 -> 0.04 
+Base.Briefs_Burlap                                 Briefs - Burlap                           0.10 -> 0.06 
+Base.Briefs_Denim                                  Briefs - Denim Strip                      0.15 -> 0.10 
+Base.Briefs_Garbage                                Briefs - Garbage Bag                      0.10 -> 0.06 
+Base.Briefs_Hide                                   Briefs - Hide                             0.20 -> 0.08 
+Base.Briefs_Tarp                                   Briefs - Tarp                             0.20 -> 0.06 
+Base.Underpants_Hide                               Underpants - Hide                         0.15 -> 0.06 
+Base.Bikini_TINT                                   Bikini                                    0.06 -> 0.10 
+Base.Bikini_Pattern01                              Bikini                                    0.06 -> 0.10 
+Base.Dress_Long_Crafted_Burlap                     Crafted Burlap Long Dress                 0.50 -> 0.35 
+Base.Dress_Knees_Crafted_Burlap                    Crafted Burlap Knee-length Dress          0.40 -> 0.25 
+Base.Dress_Knees_Crafted_Cotton                    Crafted Cotton Knee-length Dress          0.30 -> 0.18 
+Base.Dress_Long_Crafted_Cotton                     Crafted Cotton Long Dress                 0.30 -> 0.25 
+Base.Dress_Knees_Crafted_DenimLight                Crafted Denim Knee-length Dress           0.40 -> 0.28 
+Base.Dress_Knees_Crafted_Denim                     Crafted Denim Knee-length Dress           0.40 -> 0.30 
+Base.Dress_Knees_Crafted_DenimBlack                Crafted Denim Knee-length Dress           0.40 -> 0.30 
+Base.Dress_Long_Crafted_Denim                      Crafted Denim Long Dress                  0.60 -> 0.45 
+Base.Dress_Long_Crafted_DenimBlack                 Crafted Denim Long Dress                  0.60 -> 0.45 
+Base.Dress_Long_Crafted_DenimLight                 Crafted Denim Long Dress                  0.60 -> 0.42 
+Base.Dress_SmallDeerHideStrapless                  Crafted Strapless Deer Hide Dress         0.40 -> 0.35 
+Base.Dress_SmallHideStrapless                      Crafted Strapless Hide Dress              0.40 -> 0.35 
+Base.Dress_Normal                                  Dress                                     0.30 -> 0.18 
+Base.Dress_Knees                                   Knee-length Dress                         0.30 -> 0.15 
+Base.DressKnees_Straps                             Knee-length Strapped Dress                0.30 -> 0.15 
+Base.Dress_Long                                    Long Dress                                0.30 -> 0.22 
+Base.Dress_long_Straps                             Long Strapped Dress                       0.30 -> 0.22 
+Base.Dress_SatinNegligee                           Satin Negligee                            0.30 -> 0.06 
+Base.Dress_Short                                   Short Dress                               0.30 -> 0.12 
+Base.Dress_SmallStraps                             Short Strapped Dress                      0.30 -> 0.08 
+Base.Dress_SmallBlackStraps                        Short Strapped Dress                      0.30 -> 0.08 
+Base.Dress_SmallStrapless                          Strapless Dress                           0.30 -> 0.08 
+Base.Dress_SmallBlackStrapless                     Strapless Dress                           0.30 -> 0.08 
+Base.Dress_SmallGarbageStrapless                   Strapless Garbage Bag Dress               0.30 -> 0.02 
+Base.Dress_SmallTarpStrapless                      Strapless Tarp Dress                      0.35 -> 0.20 
+Base.Dress_Straps                                  Strapped Dress                            0.30 -> 0.18 
+Base.WeddingDress                                  Wedding Dress                             1.00 -> 0.90 
+Base.Suit_Jacket                                   Suit Jacket                               2.0  -> 0.60 
+Base.LongCoat_Hide                                 Hide Robe                                 1.0  -> 0.70 
+
+/* === Communications === */
+Base.RadioBlack                                    ValuTech Radio                            1.5  -> 0.90 
+Base.RadioMakeShift                                Makeshift Radio                           1.5  -> 0.90 
+Base.RadioRed                                      Premium Technologies Radio                1.5  -> 0.90 
+Base.HamRadio1                                     Premium Technologies Ham Radio            15.0 -> 7.0  
+Base.HamRadio2                                     US ARMY COMM. Ham Radio                   15.0 -> 7.0  
+Base.HamRadioMakeShift                             Makeshift Ham Radio                       15.0 -> 5.0  
+
+/* === Container === */
+Base.Lunchbox                                      Lunchbox                                  1.0  -> 0.3  
+
+/* === Cooking === */
+Base.Plate                                         Plate                                     0.10 -> 0.20 
+Base.Bowl                                          Bowl                                      0.10 -> 0.30 
+Base.ClayBowl                                      Bowl                                      0.10 -> 0.30 
+Base.ClayMug                                       Mug                                       0.10 -> 0.20 
+Base.SilverCup                                     Silver Cup                                0.10 -> 0.25 
+Base.GoldCup                                       Gold Cup                                  0.10 -> 0.35 
+Base.MetalCup                                      Metal Cup                                 0.10 -> 0.20 
+Base.CopperCup                                     Copper Cup                                0.10 -> 0.20 
+Base.CeramicTeacup                                 Ceramic Teacup                            0.05 -> 0.10 
+Base.Mugl                                          Mug                                       0.10 -> 0.20 
+Base.MugWhite                                      Mug                                       0.10 -> 0.20 
+Base.BoxOfJars                                     Box of Jars                               0.66 -> 1.20 
+Base.JarCrafted                                    Jar                                       0.10 -> 0.20 
+Base.EmptyJar                                      Jar                                       0.10 -> 0.20 
+Base.CuttingBoardPlastic                           Cutting Board                             0.20 -> 0.15 
+Base.CheeseGrater                                  Cheese Grater                             0.05 -> 0.20 
+Base.BottleOpener_Keychain                         Key Ring Bottle Opener                    0.05 -> 0.02 
+Base.Ladle                                         Ladle                                     0.05 -> 0.10 
+Base.P38                                           P38 Can Opener                            0.05 -> 0.01 
+Base.Strainer                                      Strainer                                  0.05 -> 0.10 
+
+/* === Dog === */
+Base.PanchoDog                                     Pancho the Dog                            0.8  -> 0.4  
+
+/* === Duck === */
+Base.Rubberducky                                   Rubber Duck                               0.3  -> 0.10 
+
+/* === Ears === */
+Base.Hat_BunnyEarsBlack                            Bunny Ears                                0.3  -> 0.10 
+Base.Hat_BunnyEarsWhite                            Bunny Ears                                0.3  -> 0.10 
+Base.Hat_FurryEars                                 Furry Ears                                0.3  -> 0.10 
+
+/* === Eye === */
+Base.EyeOfCthulhu                                  Eye of Cthulhu                            0.8  -> 0.4  
+
+/* === FirstAid === */
+Base.Hat_SurgicalCap                               Surgical Cap                              0.06 -> 0.02 
+Base.Hat_SurgicalMask                              Surgical Mask                             0.06 -> 0.01 
+
+/* === Food === */
+Base.Watermelon                                    Watermelon                                3.0  -> 2.40 
+Base.WatermelonSliced                              Watermelon Slice                          0.3  -> 0.24 
+Base.WatermelonSmashed                             Watermelon Chunks                         0.6  -> 0.48 
+Base.CookieChocolateChip                           Chocolate Chip Cookie                     0.10 -> 0.05 
+Base.CookieChocolateChipDough                      Baking Tray with Chocolate Chip Cookies   0.30 -> 0.80 
+Base.CookiesChocolate                              Chocolate Cookie                          0.10 -> 0.05 
+Base.CookiesChocolateDough                         Baking Tray with Chocolate Cookies        0.30 -> 0.80 
+Base.CookiesShortbread                             Shortbread Cookie                         0.10 -> 0.05 
+Base.CookiesShortbreadDough                        Baking Tray with Shortbread Cookies       0.30 -> 0.80 
+Base.CookiesOatmeal                                Oatmeal Cookie                            0.10 -> 0.05 
+Base.CookiesOatmealDough                           Baking Tray with Oatmeal Cookies          0.30 -> 0.80 
+Base.CookiesSugar                                  Sugar Cookie                              0.10 -> 0.05 
+Base.CookiesSugarDough                             Baking Tray with Sugar Cookies            0.30 -> 0.80 
+Base.DoughnutFrosted                               Frosted Donut                             0.10 -> 0.08 
+Base.MuffinFruit                                   Fruit Muffin                              0.15 -> 0.08 
+Base.QuaggaCakes                                   Quagga Cakes                              0.20 -> 0.08 
+Base.SnoGlobes                                     Sno Globes                                0.10 -> 0.08 
+Base.ChocoCakes                                    Choco Cakes                               0.20 -> 0.08 
+Base.Chocolate_Crackle                             Crackle Bar                               0.20 -> 0.10 
+Base.CookieJelly                                   Raspberry Shortbread Cookie               0.10 -> 0.05 
+Base.CrispyRiceSquare                              Crispy Rice Square                        0.15 -> 0.08 
+Base.Cupcake                                       Cupcake                                   0.15 -> 0.08 
+Base.Danish                                        Danish                                    0.15 -> 0.10 
+Base.ScoutCookies                                  Scout Cookies                             0.10 -> 0.05 
+Base.DoughnutChocolate                             Chocolate Donut                           0.10 -> 0.08 
+Base.DoughnutJelly                                 Jelly Donut                               0.10 -> 0.08 
+Base.DoughnutPlain                                 Donut                                     0.10 -> 0.08 
+Base.HiHis                                         Hi His                                    0.20 -> 0.08 
+Base.Plonkies                                      Plonkies                                  0.20 -> 0.08 
+Base.Pretzel                                       Pretzels                                  0.10 -> 0.05 
+Base.Muffintray_Biscuit                            Biscuits                                  0.50 -> 0.82 
+Base.MuffinGeneric                                 Muffin                                    0.1  -> 0.07 
+Base.BakingTray_Muffin                             Plain Muffins                             1.5  -> 0.82 
+Base.BakingTray_Muffin_Recipe                      Plain Muffins                             1.5  -> 0.82 
+Base.CakeBatter                                    Cake Batter                               0.30 -> 0.70 
+Base.CakePrep                                      Cake Preparation                          0.40 -> 0.90 
+Base.CakeBlackForest                               Black Forest Cake Slice                   0.10 -> 0.08 
+Base.CakeCarrot                                    Carrot Cake Slice                         0.10 -> 0.08 
+Base.CakeCheeseCake                                Cheese Cake Slice                         0.10 -> 0.08 
+Base.CakeChocolate                                 Chocolate Cake Slice                      0.10 -> 0.08 
+Base.CakeRedVelvet                                 Red Velvet Cake Slice                     0.10 -> 0.08 
+Base.CakeSlice                                     Cake Slice                                0.10 -> 0.08 
+Base.CakeStrawberryShortcake                       Strawberry Cake Slice                     0.10 -> 0.08 
+Base.PieDough                                      Pie Dough                                 0.30 -> 0.15 
+Base.PiePrep                                       Pie Preparation                           0.60 -> 1.00 
+Base.Pie                                           Cherry Pie Slice                          0.25 -> 0.10 
+Base.PieApple                                      Apple Pie Slice                           0.15 -> 0.10 
+Base.PieKeyLime                                    Key Lime Pie Slice                        0.25 -> 0.10 
+Base.PieLemonMeringue                              Lemon Meringue Pie Slice                  0.25 -> 0.10 
+Base.PiePumpkin                                    Pumpkin Pie Slice                         0.25 -> 0.10 
+Base.PastaBowlClay                                 Bowl of Pasta                             0.65 -> 0.55 
+Base.RiceBowlClay                                  Bowl of Rice                              0.65 -> 0.55 
+Base.StewBowlClay                                  Bowl of Stew                              0.65 -> 0.55 
+Base.CannedBellPepper                              Jar of Bell Peppers                       0.40 -> 0.50 
+Base.CannedBellPepper_Open                         Jar of Bell Peppers (Open)                0.40 -> 0.50 
+Base.CannedBroccoli                                Jar of Broccoli                           0.40 -> 0.50 
+Base.CannedBroccoli_Open                           Jar of Broccoli (Open)                    0.40 -> 0.50 
+Base.CannedCabbage                                 Jar of Cabbage                            0.40 -> 0.50 
+Base.CannedCabbage_Open                            Jar of Cabbage (Open)                     0.40 -> 0.50 
+Base.CannedCarrots                                 Jar of Carrots                            0.40 -> 0.50 
+Base.CannedCarrots_Open                            Jar of Carrots (Open)                     0.40 -> 0.50 
+Base.CannedRedRadish                               Jar of Radishes                           0.40 -> 0.50 
+Base.CannedRedRadish_Open                          Jar of Radishes (Open)                    0.40 -> 0.50 
+Base.CannedLeek                                    Jar of Leeks                              0.40 -> 0.50 
+Base.CannedLeek_Open                               Jar of Leeks (Open)                       0.40 -> 0.50 
+Base.CannedEggplant                                Jar of Eggplants                          0.40 -> 0.50 
+Base.CannedEggplant_Open                           Jar of Eggplants (Open)                   0.40 -> 0.50 
+Base.CannedRoe                                     Jar of Fish Roe                           0.40 -> 0.50 
+Base.CannedRoe_Open                                Opened Jar of Fish Roe                    0.40 -> 0.50 
+Base.CannedTomato                                  Jar of Tomatoes                           0.40 -> 0.50 
+Base.CannedTomato_Open                             Jar of Tomatoes (Open)                    0.40 -> 0.50 
+Base.CandyMolasses                                 Halloween Candy                           0.10 -> 0.05 
+Base.CandyNovapops                                 Novapops Candy                            0.10 -> 0.05 
+Base.Chocolate_Deux                                Deux Bar                                  0.20 -> 0.10 
+Base.Chocolate_GalacticDairy                       Galactic Dairy Bar                        0.20 -> 0.10 
+Base.Chocolate_HeartBox                            Box of Chocolates                         0.20 -> 0.30 
+Base.Chocolate_RoysPBPucks                         Roy's Peanut Butter Pucks                 0.10 -> 0.08 
+Base.Chocolate_Smirkers                            Smirkers Bar                              0.20 -> 0.10 
+Base.Chocolate_SnikSnak                            SnikSnak Bar                              0.20 -> 0.10 
+
+/* === Fox === */
+Base.FreddyFox                                     Freddy The Fox                            0.8  -> 0.4  
+
+/* === Frog === */
+Base.PotScrubberFrog                               Ceramic Pot Scrubber Frog                 0.5  -> 0.20 
+Base.Frog                                          Frog                                      0.4  -> 0.10 
+
+/* === Goblin === */
+Base.TrashGoblin                                   Trash Goblin                              0.8  -> 0.4  
+
+/* === Hedgehog === */
+Base.PancakeHedgehog                               Pancake The Hedgehog                      0.8  -> 0.4  
+
+/* === Household === */
+Base.UmbrellaBlack                                 Umbrella                                  1.5  -> 0.60 
+Base.UmbrellaBlue                                  Umbrella                                  1.5  -> 0.60 
+Base.UmbrellaRed                                   Umbrella                                  1.5  -> 0.60 
+Base.UmbrellaTINTED                                Umbrella                                  1.5  -> 0.60 
+Base.UmbrellaWhite                                 Umbrella                                  1.5  -> 0.60 
+
+/* === Junk === */
+Base.ClayPlate                                     Plate                                     0.2  -> 0.20 
+Base.Straw2                                        Straw                                     0.1  -> 0.01 
+Base.Tsquare                                       T-square                                  1.0  -> 0.40 
+
+/* === Literature === */
+Base.Magazine_Horror_New                           Magazine                                  0.5  -> 0.08 
+Base.Catalog                                       Catalog                                   0.1  -> 0.08 
+Base.Journal                                       Journal                                   0.20 -> 0.15 
+Base.Notebook                                      Notebook                                  0.20 -> 0.15 
+Base.PhotoBook                                     Photo Book                                1.0  -> 0.25 
+Base.RPGmanual                                     RPG Manual                                0.8  -> 0.25 
+Base.ChildsPictureBook                             Picture Book                              0.5  -> 0.15 
+Base.Diary1                                        Diary                                     0.3  -> 0.15 
+Base.Diary2                                        Diary                                     0.3  -> 0.15 
+Base.Notepad                                       Notepad                                   0.2  -> 0.15 
+Base.Phonebook                                     Phonebook                                 2.0  -> 0.50 
+
+/* === Material === */
+Base.ClayBowlUnfired                               Clay Bowl (Unfired)                       0.5  -> 0.30 
+Base.ClayMugUnfired                                Clay Mug (Unfired)                        0.2  -> 0.20 
+Base.CeramicTeacupUnfired                          Clay Teacup (Unfired)                     0.2  -> 0.12 
+Base.CeramicMortarandPestleUnfired                 Clay Mortar and Pestle (Unfired)          0.8  -> 0.55 
+Base.BrainTan                                      Bowl of Brain Tan                         0.50 -> 0.60 
+Base.BucketCarvedPlasterFull                       Carved Bucket of Plaster                  3.20 -> 9.60 
+Base.BucketCarvedWallpaperPaste                    Carved Bucket of Wallpaper Paste          3.00 -> 6.60 
+Base.BucketPlasterFull                             Bucket of Plaster                         10.0 -> 9.50 
+Base.BucketWallpaperPaste                          Bucket of Wallpaper Paste                 10.0 -> 6.50 
+Base.CeramicCrucible                               Large Ceramic Crucible                    1.50 -> 1.00 
+Base.CeramicCrucibleUnfired                        Large Clay Crucible (Unfired)             4.50 -> 1.20 
+Base.CeramicCrucibleWithGlass                      Small Ceramic Crucible with Molten Glass  2.0  -> 5.50 
+Base.CeramicCrucible_Iron                          Large Ceramic Crucible with Iron          5.50 -> 14.0 
+Base.CeramicCrucible_Steel                         Large Ceramic Crucible with Steel         5.50 -> 14.50
+Base.ConcretePowder                                Bag of Concrete Powder                    5.0  -> 3.00 
+Base.PlasterPowder                                 Bag of Plaster Powder                     5.0  -> 3.50 
+Base.Limestone                                     Limestone                                 1.0  -> 0.50 
+Base.Hinge                                         Door Hinge                                0.5  -> 0.10 
+Base.Doorknob                                      Doorknob                                  1.0  -> 0.20 
+Base.SilverScrap                                   Silver Fragments                          0.05 -> 0.01 
+Base.SteelBarMold                                  Steel Bar Mold                            6.0  -> 0.80 
+Base.PiercedIronBlock                              Iron Block (Pierced)                      2.0  -> 0.50 
+Base.PiercedIronIngot                              Iron Ingot (Pierced)                      6.0  -> 1.20 
+Base.IronBlock                                     Iron Block                                2.0  -> 0.60 
+Base.SmokingPipeUnfired                            Clay Smoking Pipe (Unfired)               0.3  -> 0.06 
+Base.LargeBellows                                  Large Bellows                             40.0 -> 15.0 
+Base.SwordBlade_Broken_NoTang                      Broken Sword Blade (No Tang)              1.5  -> 0.40 
+Base.SledgehammerHead                              Sledgehammer Head                         6.0  -> 3.0  
+Base.IronBarQuarter                                Iron Bar Quarter                          0.5  -> 0.25 
+Base.BlockAnvilUntreated                           Block Anvil (Untreated)                   30.0 -> 15.00
+
+/* === MaterialWeapon === */
+Base.Firewood                                      Firewood                                  1.5  -> 0.8  
+Base.Sapling                                       Sapling                                   2.0  -> 0.7  
+
+/* === Memento === */
+Base.Hat_BaseballCap_Spiffos                       Baseball Cap - Spiffo's                   0.5  -> 0.08 
+Base.Hat_BaseballCap_SpiffosLogo                   Baseball Cap - Spiffo's Logo              0.5  -> 0.08 
+Base.Hat_BaseballCap_SpiffosLogo_Reverse           Baseball Cap - Spiffo's Logo              0.5  -> 0.08 
+Base.Hat_BaseballCap_Spiffos_Reverse               Baseball Cap - Spiffo's                   0.5  -> 0.08 
+Base.Hat_Antlers                                   Antler Boppers                            0.3  -> 0.08 
+Base.Hat_Stovepipe_UncleSam                        Uncle Sam Stovepipe Hat                   0.30 -> 0.45 
+Base.Hat_SummerFlowerHat                           Summer Flower Hat                         0.3  -> 0.25 
+Base.Hat_StrawHat                                  Straw Hat                                 0.15 -> 0.20 
+Base.Hat_FastFood_Spiffo                           Server Hat - Spiffo's                     0.09 -> 0.02 
+Base.Hat_BucketHatFishing                          Fisherman Hat                             0.15 -> 0.10 
+Base.Hat_FishermanRainHat                          Fisherman Hat - Rain                      0.15 -> 0.12 
+Base.Hat_Jay                                       Chicken Hat - Jay's                       0.30 -> 0.35 
+Base.Hat_JokeArrow                                 Joke Hat - Arrow                          0.09 -> 0.08 
+Base.Hat_JokeKnife                                 Joke Hat - Knife                          0.09 -> 0.08 
+Base.Hat_PartyHat_TINT                             Party Hat                                 0.09 -> 0.05 
+Base.Hat_PartyHat_Stars                            Party Hat                                 0.09 -> 0.05 
+Base.Hat_Pirate                                    Pirate Hat                                0.3  -> 0.35 
+Base.Hat_Cowboy_Plastic                            Plastic Cowboy Hat with Whistle           0.3  -> 0.25 
+Base.Hat_Raccoon                                   Raccoon Hat                               0.6  -> 0.35 
+Base.Hat_Witch                                     Witch Hat                                 0.30 -> 0.35 
+Base.Glasses_OldWeldingGoggles                     Old Welding Goggles                       0.1  -> 0.05 
+Base.Apron_Spiffos                                 Server Apron - Spiffo's                   0.3  -> 0.12 
+Base.Pocketwatch                                   Pocketwatch                               0.2  -> 0.01 
+Base.Lunchbox2                                     Lunchbox                                  1.0  -> 0.3  
+Base.HalloweenCandyBucket                          Halloween Candy Bucket                    0.5  -> 0.25 
+Base.Hominid_Skull_Fragment                        Hominid Skull Fossil Fragment             0.2  -> 0.1  
+Base.Hominid_Skull_Partial                         Partial Hominid Skull Fossil              0.8  -> 0.3  
+Base.Card_LunarYear                                Lunar New Year Card                       0.2  -> 0.01 
+Base.Revolver_CapGun                               Toy Cap Pistol                            0.5  -> 0.2  
+Base.Rifle_CapGun                                  Toy Cap Rifle                             2.0  -> 0.5  
+Base.HobbyHorse                                    Hobby Horse                               2.0  -> 0.6  
+
+/* === Mole === */
+Base.MoleyMole                                     Moley The Mole                            0.8  -> 0.4  
+
+/* === ProtectiveGear === */
+Base.Hat_BuildersRespirator                        Half Mask Respirator                      0.33 -> 0.25 
+Base.Hat_ImprovisedGasMask                         Improvised Gas Mask                       0.33 -> 0.35 
+
+/* === Raccoon === */
+Base.Spiffo                                        Spiffo                                    0.8  -> 0.4  
+Base.SpiffoBig                                     Big Spiffo                                5.0  -> 1.00 
+
+/* === RecipeResource === */
+Base.CookwareSchematic                             Cookware Forging Recipe                   0.1  -> 0.02 
+Base.RecipeClipping                                Cooking Recipe Clipping                   0.1  -> 0.02 
+Base.BarleyBagSeed_Empty                           Empty Seed Packet - Barley                0.02 -> 0.01 
+Base.BasilBagSeed_Empty                            Empty Seed Packet - Basil                 0.02 -> 0.01 
+Base.BellPepperBagSeed_Empty                       Empty Seed Packet - Bell Pepper           0.02 -> 0.01 
+Base.BlackSageBagSeed_Empty                        Empty Seed Packet - Black Sage            0.02 -> 0.01 
+Base.BroadleafPlantainBagSeed_Empty                Empty Seed Packet - Broadleaf Plantain    0.02 -> 0.01 
+Base.BroccoliBagSeed2_Empty                        Empty Seed Packet - Broccoli              0.02 -> 0.01 
+Base.CabbageBagSeed2_Empty                         Empty Seed Packet - Cabbage               0.02 -> 0.01 
+Base.CarrotBagSeed2_Empty                          Empty Seed Packet - Carrot                0.02 -> 0.01 
+Base.CauliflowerBagSeed_Empty                      Empty Seed Packet - Cauliflower           0.02 -> 0.01 
+Base.ChamomileBagSeed_Empty                        Empty Seed Packet - Chamomile             0.02 -> 0.01 
+Base.ChivesBagSeed_Empty                           Empty Seed Packet - Chives                0.02 -> 0.01 
+Base.CilantroBagSeed_Empty                         Empty Seed Packet - Cilantro              0.02 -> 0.01 
+Base.ComfreyBagSeed_Empty                          Empty Seed Packet - Comfrey               0.02 -> 0.01 
+Base.CommonMallowBagSeed_Empty                     Empty Seed Packet - Common Mallow         0.02 -> 0.01 
+Base.CucumberBagSeed_Empty                         Empty Seed Packet - Cucumber              0.02 -> 0.01 
+Base.GarlicBagSeed_Empty                           Empty Seed Packet - Garlic                0.02 -> 0.01 
+Base.GreenpeasBagSeed_Empty                        Empty Seed Packet - Green Peas            0.02 -> 0.01 
+Base.HabaneroBagSeed_Empty                         Empty Seed Packet - Habanero              0.02 -> 0.01 
+Base.HempBagSeed_Empty                             Empty Seed Packet - Hemp                  0.02 -> 0.01 
+Base.HopsBagSeed_Empty                             Empty Seed Packet - Hops                  0.02 -> 0.01 
+Base.JalapenoBagSeed_Empty                         Empty Seed Packet - Jalapeno              0.02 -> 0.01 
+Base.KaleBagSeed_Empty                             Empty Seed Packet - Kale                  0.02 -> 0.01 
+Base.LavenderBagSeed_Empty                         Empty Seed Packet - Lavender              0.02 -> 0.01 
+Base.LeekBagSeed_Empty                             Empty Seed Packet - Leek                  0.02 -> 0.01 
+Base.LemonGrassBagSeed_Empty                       Empty Seed Packet - Lemongrass            0.02 -> 0.01 
+Base.LettuceBagSeed_Empty                          Empty Seed Packet - Lettuce               0.02 -> 0.01 
+Base.MarigoldBagSeed_Empty                         Empty Seed Packet - Marigold              0.02 -> 0.01 
+Base.MintBagSeed_Empty                             Empty Seed Packet - Mint                  0.02 -> 0.01 
+Base.OnionBagSeed_Empty                            Empty Seed Packet - Onion                 0.02 -> 0.01 
+Base.OreganoBagSeed_Empty                          Empty Seed Packet - Oregano               0.02 -> 0.01 
+Base.ParsleyBagSeed_Empty                          Empty Seed Packet - Parsley               0.02 -> 0.01 
+Base.PoppyBagSeed_Empty                            Empty Seed Packet - Poppy                 0.02 -> 0.01 
+Base.PotatoBagSeed2_Empty                          Empty Seed Packet - Potato                0.02 -> 0.01 
+Base.PumpkinBagSeed_Empty                          Empty Seed Packet - Pumpkin               0.02 -> 0.01 
+Base.RedRadishBagSeed2_Empty                       Empty Seed Packet - Radish                0.02 -> 0.01 
+Base.RoseBagSeed_Empty                             Empty Seed Packet - Rose                  0.02 -> 0.01 
+Base.RosemaryBagSeed_Empty                         Empty Seed Packet - Rosemary              0.02 -> 0.01 
+Base.RyeBagSeed_Empty                              Empty Seed Packet - Rye                   0.02 -> 0.01 
+Base.SageBagSeed_Empty                             Empty Seed Packet - Sage                  0.02 -> 0.01 
+Base.SoybeansBagSeed_Empty                         Empty Seed Packet - Soybeans              0.02 -> 0.01 
+Base.SpinachBagSeed_Empty                          Empty Seed Packet - Spinach               0.02 -> 0.01 
+Base.StrewberrieBagSeed2_Empty                     Empty Seed Packet - Strawberry            0.02 -> 0.01 
+Base.SugarBeetBagSeed_Empty                        Empty Seed Packet - Sugar Beet            0.02 -> 0.01 
+Base.SunflowerBagSeed_Empty                        Empty Seed Packet - Sunflower             0.02 -> 0.01 
+Base.SweetPotatoBagSeed_Empty                      Empty Seed Packet - Sweet Potato          0.02 -> 0.01 
+Base.ThymeBagSeed_Empty                            Empty Seed Packet - Thyme                 0.02 -> 0.01 
+Base.TobaccoBagSeed_Empty                          Empty Seed Packet - Tobacco               0.02 -> 0.01 
+Base.TomatoBagSeed2_Empty                          Empty Seed Packet - Tomato                0.02 -> 0.01 
+Base.TurnipBagSeed_Empty                           Empty Seed Packet - Turnip                0.02 -> 0.01 
+Base.WatermelonBagSeed_Empty                       Empty Seed Packet - Watermelon            0.02 -> 0.01 
+Base.WheatBagSeed_Empty                            Empty Seed Packet - Wheat                 0.02 -> 0.01 
+Base.WildGarlicBagSeed_Empty                       Empty Seed Packet - Wild Garlic           0.02 -> 0.01 
+Base.ZucchiniBagSeed_Empty                         Empty Seed Packet - Zucchini              0.02 -> 0.01 
+
+/* === SkillBook === */
+Base.BookAimingSet                                 Set of Aiming Books                       4.0  -> 1.25 
+Base.BookBlacksmithSet                             Set of Blacksmithing Books                4.0  -> 1.25 
+Base.BookButcheringSet                             Set of Butchering Books                   4.0  -> 1.25 
+Base.BookCarpentrySet                              Set of Carpentry Books                    4.0  -> 1.25 
+Base.BookCarvingSet                                Set of Carving Books                      4.0  -> 1.25 
+Base.BookCookingSet                                Set of Cooking Books                      4.0  -> 1.25 
+Base.BookElectricianSet                            Set of Electrical Books                   4.0  -> 1.25 
+Base.BookFarmingSet                                Set of Farming Books                      4.0  -> 1.25 
+Base.BookFirstAidSet                               Set of First Aid Books                    4.0  -> 1.25 
+Base.BookFishingSet                                Set of Fishing Books                      4.0  -> 1.25 
+Base.BookFlintKnappingSet                          Set of Knapping Books                     4.0  -> 1.25 
+Base.BookForagingSet                               Set of Foraging Books                     4.0  -> 1.25 
+Base.BookGlassmakingSet                            Set of Glassmaking Books                  4.0  -> 1.25 
+Base.BookHusbandrySet                              Set of Animal Care Books                  4.0  -> 1.25 
+Base.BookLongBladeSet                              Set of Long Blade Books                   4.0  -> 1.25 
+Base.BookMaintenanceSet                            Set of Maintenance Books                  4.0  -> 1.25 
+Base.BookMasonrySet                                Set of Masonry Books                      4.0  -> 1.25 
+Base.BookMechanicsSet                              Set of Mechanics Books                    4.0  -> 1.25 
+Base.BookMetalWeldingSet                           Set of Welding Books                      4.0  -> 1.25 
+Base.BookPotterySet                                Set of Pottery Books                      4.0  -> 1.25 
+Base.BookReloadingSet                              Set of Reloading Books                    4.0  -> 1.25 
+Base.BookTailoringSet                              Set of Tailoring Books                    4.0  -> 1.25 
+Base.BookTrackingSet                               Set of Tracking Books                     4.0  -> 1.25 
+Base.BookTrappingSet                               Set of Trapping Books                     4.0  -> 1.25 
+
+/* === Spider === */
+Base.RubberSpider                                  Rubber Spider                             0.2  -> 0.10 
+
+/* === Squirrel === */
+Base.FurbertSquirrel                               Furbert The Squirrel                      0.8  -> 0.4  
+
+/* === Tail === */
+Base.BunnyTail                                     Bunny Tail                                1.0  -> 0.30 
+Base.SpiffoTail                                    Spiffo Suit Tail                          1.0  -> 0.30 
+
+/* === Teddy === */
+Base.ToyBear                                       Teddy Bear                                5.0  -> 1.00 
+Base.ToyBear_Crafted_Burlap                        Crafted Burlap Teddy Bear                 5.0  -> 1.00 
+Base.ToyBear_Crafted_Cotton                        Crafted Cotton Teddy Bear                 5.0  -> 1.00                       N/A  -> 0.01 
